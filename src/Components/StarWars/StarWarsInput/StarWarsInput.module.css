@@ -1,0 +1,8 @@
+.input input {
+    background-color: rgba(230, 255, 2, 0.992);
+    border: 5px solid #000;
+    padding: 10px;
+    font-size: 40px;
+    color: #43a7ff;
+    text-align: center;
+}
